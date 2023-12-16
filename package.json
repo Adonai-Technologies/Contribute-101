@@ -34,5 +34,8 @@
     "pre-commit": "^1.2.2",
     "prettier": "^2.0.4",
     "supertest": "^4.0.2"
+  },
+  "directories": {
+    "test": "tests"
   }
 }

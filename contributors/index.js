@@ -1,4 +1,16 @@
 const list = [
+	
+	
+	{
+		name: 'Akua Konadu',
+		country: 'Ghana',
+		role: 'Fullstack software Engineer',
+		tech_stack: ['MongoDB', 'Express', 'Node','git','Javascript','Ejs'],
+		github_username: 'Adonai Technology',
+		twitter_username: 'EuniceOsei18@',
+	},
+	
+	
 	{
 		name: 'Sabahat iqbal',
 		country: 'United States',
@@ -509,6 +521,7 @@ const list = [
 		github_username: 'saeed-rz',
 		twitter_username: '@SaeedRezaeii',
 	},
+	
 	{
 		name: 'Riya',
 		country: 'India',
